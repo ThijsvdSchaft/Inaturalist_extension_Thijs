@@ -57,12 +57,13 @@ Ik wilde een kleine, overzichtelijke dataset waarmee ik:
 - een simpele ML-stap kon uitvoeren  
 - logische moeilijkheidsgradaties kon bepalen voor mijn uitbreiding  
 
-Daarom koos ik voor een subset van plantensoorten uit iNaturalist.  
+Daarom koos ik voor een subset van plantensoorten uit iNaturalist. 
+Omdat de volledige iNaturalist dataset erg groot is voor deze opdracht, heb ik een kleine testdataset samengesteld om mijn concept, visualisaties en ML-stappen duidelijk en beheersbaar te houden.
 Ik heb alleen kolommen gehouden die voor mij relevant waren:
 - species (naam van de plant)  
 - kingdom (alleen Plantae)  
 - category  
-- frequency / count  
+- frequency / count
 
 ### Opschoning
 Ik heb lege waarden verwijderd en alles gefilterd op kingdom = "Plantae".
