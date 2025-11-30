@@ -1,9 +1,9 @@
 # iNaturalist / Plantle – Mijn individuele technische opdracht
 
-Dit is mijn persoonlijke bijdrage binnen het iNaturalist / Plantle project voor de minor **Big Data & Design** (HU).
+Dit is mijn persoonlijke bijdrage binnen het iNaturalist project voor de minor **Big Data & Design** (HU).
 
 Mijn groepsgenoten hebben het originele Plantle-algoritme gebouwd.  
-In deze repository laat ik **mijn eigen technische werk** zien — dus echt mijn aandeel binnen het project.
+In deze repository laat ik **mijn eigen technische werk** zien. dus echt mijn aandeel binnen het project.
 
 ## Wat ik zelf heb gedaan
 
