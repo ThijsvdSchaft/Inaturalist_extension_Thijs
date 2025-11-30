@@ -2,7 +2,7 @@
 Minor Big Data & Design – Tech Class  
 Hogeschool Utrecht
 
-Dit document beschrijft **mijn eigen technische bijdrage** binnen het iNaturalist / Plantle project.  
+Dit document beschrijft **mijn eigen technische bijdrage** binnen het iNaturalist project van de UX-challenge.  
 Mijn groepsgenoot Berend heeft het originele Plantle-algoritme gebouwd. Ik heb dit **niet** gemaakt en claim dat ook niet.
 
 In deze opdracht laat ik zien:
