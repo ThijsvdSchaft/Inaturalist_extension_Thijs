@@ -1,4 +1,4 @@
-# iNaturalist / Plantle – Mijn individuele technische opdracht
+# iNaturalist UX-challenge – Mijn individuele technische opdracht
 
 Dit is mijn persoonlijke bijdrage binnen het iNaturalist project voor de minor **Big Data & Design** (HU).
 
